@@ -1,5 +1,5 @@
 # Idea catalog
 
-Some ideas that I need time to think on them.
+Some ideas that I need time to think more about.
 
-Look at them in [issues](https://github.com/pel-daniel/idea-catalog/issues).
+Listed as [issues](https://github.com/pel-daniel/idea-catalog/issues).
